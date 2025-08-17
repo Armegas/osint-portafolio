@@ -47,7 +47,7 @@ Este sitio incluye ejemplos reales (anonimizados) de investigaciones OSINT aplic
 Para contratar servicios, solicitar una cotización o agendar una reunión:
 
 📧 nelson.osint@protonmail.com  
-📱 WhatsApp: +58 XXX-XXX-XXXX  
+📱 WhatsApp: +58 146.39.04  
 📅 Calendly: [Agendar reunión](https://calendly.com)
 
 ---
